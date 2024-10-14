@@ -48,7 +48,7 @@ Micro-Reddit is a simplified version of Reddit, designed to support link submiss
 
 1. Clone the repository:
    ```bash
-   git clone [your-repo-url]
+   git clone https://github.com/jambalong/micro-reddit.git
    cd micro-reddit
    ```
 
